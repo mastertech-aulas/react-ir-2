@@ -1,3 +1,3 @@
-# Exemplo 1 - React
+# Exemplo 2 - React
 
-Esse repositório é o exemplo feito na Aula 1 de Imunização Racional.
+Esse repositório é o exemplo feito na Aula 2 de Imunização Racional.
